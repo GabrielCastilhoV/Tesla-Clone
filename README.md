@@ -4,16 +4,6 @@
 
 <br>
 
-
-##
-
-<p align="center" style="margin-top: 20px">
-  <a href="#getting_started">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#built_usingt">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing-">contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-
 ## 🏁 Iniciando <a name = "getting_started"></a>
 ```
 $ npm install or yarn install
