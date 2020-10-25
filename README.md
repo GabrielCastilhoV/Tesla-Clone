@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/model.png" width="70%"/>
+  <img src="./Model.png" width="70%"/>
 </p>
 
 <br>
@@ -13,11 +13,11 @@
   <a href="#contributing-">contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+
 ## 🏁 Iniciando <a name = "getting_started"></a>
 ```
-$ `npm install` or `yarn install`
-$ `npm start` or `yarn start`
+$ npm install or yarn install
+$ npm start or yarn start
 ```
 
 ## ⛏️ Tecnologias Utilizadas <a name = "built_using"></a>
